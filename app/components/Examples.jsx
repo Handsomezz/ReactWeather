@@ -16,6 +16,7 @@ var Examples=(props)=>{
   return(
     <div>
       Examples
+      <p>Changes</p>
     </div>
   );
 }
